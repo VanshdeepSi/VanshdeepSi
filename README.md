@@ -69,9 +69,9 @@ vibe        : Late night coding sessions + Music + Football Matches
 ```
 
 ```yaml
-linkedin    : linkedin.com/in/vanshdeep-singh-030555202 
+linkedin    : linkedin.com/in/vanshdeepsi 
 github      : github.com/VanshdeepSi
-email       : [vanshdeepsb@gmail.com]
+email       : vanshdeepsb@gmail.com
 ```
 
 ---
