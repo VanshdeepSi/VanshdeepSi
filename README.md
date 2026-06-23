@@ -17,7 +17,7 @@ name        : Vanshdeep Singh
 role        : ENC Student | Developer | ML Explorer
 university  : Thapar Institute of Engineering & Technology
 degree      : B.Tech ENC  [2025 → 2029]
-location    : Patiala, Punjab, IN 🇮🇳
+location    : Patiala, Punjab, IN
 club        : Microsoft Learn Student Chapter (MLSC)
 ```
 
@@ -32,8 +32,20 @@ club        : Microsoft Learn Student Chapter (MLSC)
 languages   : Python · C · JavaScript · HTML/CSS
 web         : React · Node.js · Express
 ml/ai       : XGBoost · NumPy · Pandas
-tools       : GitHub · VS Code · AutoCAD · SolidWorks 
+tools       : GitHub · VS Code · Photoshop · AutoCAD · SolidWorks
 currently   : Learning DSA + Flutter + Dart
+```
+
+---
+```bash
+┌──(vanshdeep㉿thapar)-[~]
+└─$ ls projects/
+```
+
+```
+📁 DeliveryPredictor   → Predicts the Actual Delivery time and rate of failier
+📁 ML Projects         → Classification & prediction models
+📁 WEB Dev             → Made few websites for events in club[MLSC]
 ```
 
 ---
@@ -44,9 +56,9 @@ currently   : Learning DSA + Flutter + Dart
 ```
 
 ```yaml
-football    : Die-hard Messi/Argentina fan 🐐
+Sports      : Swimmer and Footballer
 gaming      : PC gamer
-vibe        : Late night coding sessions + lofi music
+vibe        : Late night coding sessions + Music + Football Matches
 ```
 
 ---
