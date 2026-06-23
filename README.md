@@ -60,7 +60,6 @@ Sports      : Swimmer and Footballer
 gaming      : PC gamer
 vibe        : Late night coding sessions + Music + Football Matches
 ```
-
 ---
 
 ```bash
