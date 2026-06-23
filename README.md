@@ -69,14 +69,14 @@ vibe        : Late night coding sessions + Music + Football Matches
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=VanshdeeSi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&ring_color=00D4FF&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshdeeSi&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&langs_count=6" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=VanshdeepSi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&ring_color=00D4FF&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshdeepSi&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=VanshdeeSi&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=c9d1d9" />
+<img src="https://streak-stats.demolab.com?user=VanshdeepSi&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
